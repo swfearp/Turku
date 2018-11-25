@@ -1,3 +1,12 @@
+# Requirments
+
+### numpy
+### opencv2
+### matplotlib
+### pandas
+### scikit-learn
+### glob
+
 # Content:
 
 ### Workbook.ipynb
