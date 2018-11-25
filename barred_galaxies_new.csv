@@ -1,4 +1,4 @@
-f_name, R_at_min_dG/dR, min_dG/dR, max_G, R_at_max_G
+f_name,R_at_min_dG/dR,min_dG/dR,max_G,R_at_max_G
 datasets/barred_galaxies/poisson_noise_bg_run670Diff.01200_4_highres.fits.png,120.0,0.037481575060515006,0.2289975614730078,300.0
 datasets/barred_galaxies/poisson_noise_bg_run652ht.00900_4_highres.fits.png,300.0,0.18219775622288198,0.18684647457765005,264.0
 datasets/barred_galaxies/poisson_noise_bg_run700.00800_4_highres.fits.png,252.0,0.10986692073177756,0.12191059522797408,168.0
